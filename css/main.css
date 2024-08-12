@@ -1,0 +1,18 @@
+.contact {
+    background-color: var(--bg-div);
+    height: 300px;
+}
+
+.contact h1,
+.blog span {
+    color: var(--footer-font);
+}
+
+.different {
+    background-color: var(--logo-color) !important;
+    border-color: transparent !important;
+}
+
+.blog a {
+    color: var(--light-font) !important;
+}
